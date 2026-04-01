@@ -1,0 +1,6 @@
+atm.exe
+*.exe
+*.o
+*.obj
+*.dll
+.vscode/
